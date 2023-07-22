@@ -1,0 +1,3 @@
+chrome://flags/#unsafely-treat-insecure-origin-as-secure
+link untuk membenarkan jika erro cors local
+https://www.dicoding.com/academies/261/discussions/217810
